@@ -7,37 +7,17 @@ export default defineConfig({
   nav: [
     {
       href: "/",
-      text: "首頁",
+      text: "Home",
       icon: "i-ri-home-line",
     },
     {
-      text: "文章",
-      href: "/random/",
+      text: "Articles",
+      href: "/archives/",
       icon: "i-ri-quill-pen-fill",
-      dropbox: {
-        enable: true,
-        items: [
-          {
-            href: "/categories/",
-            text: "分類",
-            icon: "i-ri-book-shelf-fill",
-          },
-          {
-            href: "/tags/",
-            text: "標籤",
-            icon: "i-ri-price-tag-3-fill",
-          },
-          {
-            href: "/archives/",
-            text: "檔案",
-            icon: "i-ri-archive-line",
-          },
-        ],
-      },
     },
     {
-      text: "動態",
-      href: "/moments/",
+      text: "About me",
+      href: "/posts/about-me/",
       icon: "i-ri-chat-quote-line",
     },
   ],
