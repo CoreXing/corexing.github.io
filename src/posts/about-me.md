@@ -8,22 +8,30 @@ sticky: true
 draft: false
 ---
 
-## Whoami
+# Whoami
 大家好！我叫星星(CoreXing)，現在就讀於國立清華大學資安所。
 目前正在資安領域打滾，預計會往藍隊(情資、數位鑑識等等方向)發展。
 
 Hi! I'm CoreXing, an Information Security student at NTHU.Nice to meet you!
 I’m currently focused on Blue Team security, especially Threat Intelligence and Digital Forensics.
 
-### 證照
+## 學歷
+- 國立清華大學(114～)
+  - 資訊安全研究所
+- 國立臺北科技大學(110～113)
+  - 資訊工程學系
+- 臺中市立臺中工業高級中等學校(107～109)
+  - 電子科
+
+## 證照
 1. IPAS資訊安全工程師 - 初級
 2. IPAS機器學習工程師 - 初級
 3. 大學程式能力檢定(CPE) - 3題/7題
 4. 數位電子乙級證照
 5. 工業電子丙級證照
 
-## 活動
-### 社群活動
+# 活動
+## 社群活動
 
 |活動名稱|年份|職位|
 |---|---|---|
@@ -37,7 +45,7 @@ I’m currently focused on Blue Team security, especially Threat Intelligence an
 |SITCON 學⽣計算機年會|2022|場務組組員|
 |COSCUP 開源人年會|2022|會眾、攤位志工|
 
-### 資安活動
+## 資安活動
 
 |活動名稱|年份|職位|地點|備註|
 |---|---|---|---|---|
@@ -51,19 +59,19 @@ I’m currently focused on Blue Team security, especially Threat Intelligence an
 |AIS3新型態資安實務暑期課程|2023|學員|中華電信學院板橋所||
 |CYBERSEC 台灣資安大會|2023|會眾|南港展覽館||
 
-## 比賽
+# 比賽
 
-### Coding 比賽
+## Coding 比賽
 
 |比賽名稱|年份|成績|
-|---|---|---|---|
+|---|---|---|
 |CodeWars|2023||
 |北區四校聯盟程式設計競賽|程式競賽|2023|8題／16題|
 
-### 資安比賽
+## 資安比賽
 
 |比賽名稱|年份|成績|
-|---|---|---|---|
+|---|---|---|
 |資安技能金盾獎|2025||
 |資安女婕思 資安闖天關|2025|佳作|
 |資安技能金盾獎|2024||
@@ -72,6 +80,8 @@ I’m currently focused on Blue Team security, especially Threat Intelligence an
 |資安女婕思 資安闖天關|2023||
 |MyFirstCTF|2022||
 
-### 其他
+## 其他
+|比賽名稱|年份|成績|
+|---|---|---|
 |第二屆技職院校大手攜小手智慧創新應用競賽|2021|優勝|
 |全國工業類學生技藝競賽 數位電子職種|2020|金手獎，第6名|
