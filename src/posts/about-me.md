@@ -12,8 +12,8 @@ draft: false
 大家好！我叫星星(CoreXing)，現在就讀於國立清華大學資安所。
 目前正在資安領域打滾，預計會往藍隊(情資、數位鑑識等等方向)發展。
 
-Hi! I'm CoreXing, an Information Security student at NTHU.Nice to meet you!
-I’m currently focused on Blue Team security, especially Threat Intelligence and Digital Forensics.
+Hi! I am CoreXing, an Information Security student at NTHU. Nice to meet you!
+I am currently focused on Blue Team security, especially Threat Intelligence and Digital Forensics.
 
 ## 學歷
 - 國立清華大學(114～)
@@ -47,17 +47,17 @@ I’m currently focused on Blue Team security, especially Threat Intelligence an
 
 ## 資安活動
 
-|活動名稱|年份|職位|地點|備註|
-|---|---|---|---|---|
-|AIS3新型態資安實務暑期課程|2026|助教|陽明交通大學||
-|TechGiCS第6屆科技女婕思記者會|2026|學生代表致詞|國科會||
-|第5屆尋找資安女婕思活力成長營|2026|成長期代表致詞|財團法人電信技術中心||
-|HITCON Cyber Range|2025|報到組組員|臺北文創||
-|AIS3新型態資安實務暑期課程|2025|學員|陽明交通大學||
-|CYBERSEC 台灣資安大會|2024|會眾|南港展覽館||
-|HITCON 台灣駭客年會|2023|會眾|中央研究院 人文社會科學館||
-|AIS3新型態資安實務暑期課程|2023|學員|中華電信學院板橋所||
-|CYBERSEC 台灣資安大會|2023|會眾|南港展覽館||
+|活動名稱|年份|職位|
+|---|---|---|
+|AIS3新型態資安實務暑期課程|2026|助教|
+|TechGiCS第6屆科技女婕思記者會|2026|學生代表致詞|
+|第5屆尋找資安女婕思活力成長營|2026|成長期代表致詞|
+|HITCON Cyber Range|2025|報到組組員|
+|AIS3新型態資安實務暑期課程|2025|學員|
+|CYBERSEC 台灣資安大會|2024|會眾|
+|HITCON 台灣駭客年會|2023|會眾|
+|AIS3新型態資安實務暑期課程|2023|學員|
+|CYBERSEC 台灣資安大會|2023|會眾|
 
 # 比賽
 
