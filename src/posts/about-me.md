@@ -66,7 +66,7 @@ I am currently focused on Blue Team security, especially Threat Intelligence and
 |比賽名稱|年份|成績|
 |---|---|---|
 |CodeWars|2023||
-|北區四校聯盟程式設計競賽|程式競賽|2023|8題／16題|
+|北區四校聯盟程式設計競賽|2023|8題／16題|
 
 ## 資安比賽
 
