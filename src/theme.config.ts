@@ -6,8 +6,8 @@ export default defineConfig({
   locale: "zh-CN", // 网站语言: "zh-CN" | "en"
   nav: [
     {
-      href: "/",
       text: "Home",
+      href: "/",
       icon: "i-ri-home-line",
     },
     {
