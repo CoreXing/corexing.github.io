@@ -58,7 +58,12 @@ function formatWordCount(count: number): string {
 
     {
       displayTitle && (
-        <h1 class="color-grey-8 letter-space-2 text-5xl leading-tight tracking-wider font-600">
+        <h1
+          class:list={[
+            "color-grey-8 letter-space-2 text-5xl leading-tight tracking-wider font-600",
+            { "brand-title": !pageTitle },
+          ]}
+        >
           {displayTitle}
         </h1>
       )
@@ -147,6 +152,11 @@ function formatWordCount(count: number): string {
 
   #brand.affix {
     z-index: var(--z-base);
+  }
+
+  /* Keep the configured site title black in both light and dark themes. */
+  #brand .brand-title {
+    color: #000;
   }
 
   .pjax {

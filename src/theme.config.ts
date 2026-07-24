@@ -18,7 +18,7 @@ export default defineConfig({
     {
       text: "About me",
       href: "/posts/about-me/",
-      icon: "i-ri-chat-quote-line",
+      icon: "i-ri-user-line",
     },
   ],
   brand: {
